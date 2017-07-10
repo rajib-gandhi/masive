@@ -1,0 +1,304 @@
+/*Mahbub rocky Responsive Css*/
+@media screen and (max-width: 1199px) {
+	.hero-3 .hero-content h2{
+		font-size:40px;
+	}
+	.ad-frame-one {
+	  width: 50%;
+	}	
+	.ad-frame-two {
+	  width: 70%;
+	}
+	.feature {
+	  top: -110px;
+	}
+	.owl-theme .owl-dots{
+		margin:0px;
+	}
+	.owl-theme .gallery-item a{
+		left:380px;
+	}
+}
+
+@media screen and (max-width: 1039px) {
+	.ad-frame-two {
+	  width: 60%;
+	}
+	.ad-frame-one {
+	  left: 40px;
+	  width: 40%;
+	}
+	.feature {
+	  top: -157px;
+	}
+.owl-theme .owl-dots {
+  margin:0px;
+}
+}
+
+
+@media screen and (max-width: 991px) {
+	
+img, iframe, object, embed {
+  max-width: 100%;
+}
+	
+	.menu-bg .main-menu ul.navbar-nav li a {
+	  padding: 22px 8px;
+	}
+	
+	.main-menu .navbar-nav li a {
+		padding: 30px 8px;
+	}
+	.hero-3 .hero-caption h2 {
+	  font-size: 30px;
+	  margin-top: 0;
+	  line-height: 30px;
+	}
+	.ad-frame-two {
+	  left: 230px;
+	  top: -135px;
+	  width: 70%;
+	}
+	.ad-frame-one {
+	  left: 47px;
+	  top: 21px;
+	  width: 70%;
+	}
+	.about_text {
+	  padding-bottom: 161px;
+	}
+	
+	.feature {
+		top: 0px;
+	}
+	.banner h2 {
+		font-size: 25px;
+		margin-top: 0;
+	}
+	.about_text {
+		margin-bottom: 50px;
+	}
+	.about_text p {
+		margin-bottom: 20px;
+	}
+.owl-theme .owl-dots {
+  margin: 0px;
+}
+
+.owl-theme .gallery-item a {
+  font-size: 11px;
+  height: 40px;
+  left: 302px;
+  top: 23px;
+  width: 100px;
+}
+
+}
+
+@media screen and (max-width: 767px) {
+		.ad-frame-two {
+		  width: 50%;
+		}
+	.ad-frame-one {
+	  width: 40%;
+	}
+	.owl-theme .gallery-item a {
+	  font-size: 11px;
+	  height: 40px;
+	  left: 302px;
+	  top: 23px;
+	  width: 100px;
+	}
+	
+.owl-theme .owl-dots {
+  margin: 0;
+  width: 100%;
+}	
+	
+.col-md-4 > h2 {
+    margin-bottom: 0;
+    margin-top: 30px;
+}
+.col-md-4 > h3 {
+    margin-bottom: 4px;
+    margin-top: 15px;
+}
+.feature .about_btn a {
+    margin-top: 0;
+}
+
+.testimonial-content h4 {
+    margin-top: 15px;
+}
+.testimonial p {
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+.testi-icon {
+    margin-top: 40px;
+}
+
+
+.navbar-collapse {
+    background-color: #fff;
+    float: right;
+    margin-top: 22px;
+    width: 200px;
+}
+.menu-bg .navbar-collapse {
+    margin-top: 4px;
+}
+.main-menu ul.navbar-nav li a, .menu-bg .main-menu ul.navbar-nav li a{
+    padding: 8px 9px 8px 16px;
+}
+
+.navbar-collapse ul li {
+    border-bottom: 1px solid #eee;
+}
+
+}
+
+
+
+@media screen and (max-width: 690px) {
+	.ad-frame-two {
+	  width: 50%;
+	}
+	.ad-frame-one {
+	  width: 40%;
+	}
+	.owl-theme .gallery-item a{
+		left:270px;
+	}
+}
+
+
+@media screen and (max-width: 552px) {
+	.ad-frame-two {
+	  width: 50%;
+	}
+	.ad-frame-one {
+	  width: 45%;
+	}
+	.feature {
+  top: -56px;
+}
+.owl-theme .gallery-item a{
+	left:195px;
+}
+}
+
+
+
+
+
+
+@media screen and (max-width: 540px) {
+.ptb-50 {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.hero-caption {
+  margin-top: 135px;
+}
+	
+.social-connect{
+	display:none;
+	text-indent:-99999px
+}
+.owl-theme .owl-dots {
+  margin:0px;
+}
+
+.about_text {
+    margin-bottom: 0;
+    margin-top: 90px;
+    padding-bottom: 0;
+}
+.banner h2 {
+    font-size: 30px;
+    margin-bottom: 32px;
+}
+.banner {
+    padding-bottom: 110px;
+    padding-top: 0;
+}
+
+
+
+.hero-3 .hero-caption h2 {
+    font-size: 22px;
+    line-height: 30px;
+	 margin-bottom: 20px;
+}
+.owl-theme .owl-dots {
+    margin: 0px;
+}
+.pricing-title.text-center p {
+    padding: 0 20px;
+    text-align: center;
+}
+.single-my-team img {
+    width: 100%;
+}
+
+
+
+.gallery-item {
+    margin: 0;
+}
+.owl-theme .owl-dots {
+    margin-left: 0;
+    width: 100%;
+}
+
+
+.testimonial-content h4 {
+    margin-top: 10px;
+}
+.testimonial p {
+    margin-bottom: 20px;
+    margin-top: 5px;
+}
+
+
+
+.feature h3, .service-content h3 {
+    margin: 0;
+}
+.col-md-4 > h2 {
+    margin-bottom: 40px;
+}
+.feature .about_btn a {
+    margin-top: 0;
+}
+
+}
+
+@media screen and (max-width: 480px) {
+	.owl-theme .gallery-item a{
+		left: 150px;
+	}
+}
+@media screen and (max-width: 420px) {
+	.hm-caption {
+	   margin-top: 122px;
+	}
+	
+	.hm-area .hm-content h2{
+		font-size:28px;
+	}
+	.owl-theme .gallery-item a{
+		display: none;
+	}
+}
+
+@media screen and (max-width: 320px) {
+	.hm-caption {
+	   margin-top: 122px;
+	}
+	.hm-area .hm-content h2{
+		font-size:28px;
+	}
+}
